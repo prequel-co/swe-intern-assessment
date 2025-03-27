@@ -47,7 +47,7 @@ You are provided with a starter FastAPI application that includes a Makefile ent
 ## Guidelines
 
 - **Coding Style:**
-  - Follow PEP8 and modern Python idioms to ensure your code is clean, readable, and maintainable.
+  - Ensure your code is clean, readable, and maintainable.
   - Use meaningful variable and function names.
   - Include docstrings and comments where appropriate.
 
@@ -75,7 +75,7 @@ When you have completed the challenge:
 
 After you open your pull request, our team will review your code. We will evaluate your solution based on:
 - How you approached the problem.
-- Code quality and adherence to modern Python standards.
+- Code quality and adherence to best practices.
 - The effectiveness of your tests.
 - Your ability to handle errors and unexpected inputs.
 
